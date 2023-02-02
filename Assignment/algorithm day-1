@@ -1,0 +1,39 @@
+//add of two number
+
+Begin
+
+step:1 print "Enter num1"
+step:2 Read num1
+step:3 print "Enter num2"
+step:4 Read num2
+step:5 sum=num1+num2
+step:6 print sum
+
+End
+
+
+//calculate are of circle
+
+Begin
+
+step:1 print "Enter Radius for calculate Area"
+step:2 Read Radius
+step:3 Area = 3.14 * radius * radius;
+step:4 print Area
+
+End
+
+
+//odd number sum
+
+Begin
+
+step:1 printstep: "Enter upper limit for calculate sum of odd Number upto upper limit"
+step:2 Read n
+step:3 initialize i to 1 and sum to 0
+step:4 while i!=n do
+            if i % 2 != 0
+                sum = sum + i
+step:5 print sum   
+
+End
