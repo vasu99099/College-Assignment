@@ -4,5 +4,3 @@ For many years, there has been much debate about the Importance of Mathematics i
 
 
 
-Why is Mathematics so important in Computer Science?
-Imagine the Burj Khalifa (Tallest Building in the world). Now, what is the most important part of this building? No, not it’s not the height (well, that too!) but mainly its foundation. If the Burj Khalifa did not have a strong foundation, it would have been fairly wobbly and much more likely to fall than stand!!
