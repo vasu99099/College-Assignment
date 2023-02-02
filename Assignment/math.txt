@@ -1,0 +1,8 @@
+Mathematics has been the bane of many students’ lives (including mine!!!) since arguably it’s inception. On the other hand, Computer Science is quite interesting and students study it in hopes of becoming the next programming whizz-kid!!! But hold on…is it really that simple?!! No, my friends, it isn’t….Computer Science is in fact quite closely linked to Mathematics.
+
+For many years, there has been much debate about the Importance of Mathematics in Computer Science. Some believe that it adds only little value in Computer Science while others (mostly in the majority!) think it is the foundation on which Computer Science is built. According to the University of Oxford:
+
+
+
+Why is Mathematics so important in Computer Science?
+Imagine the Burj Khalifa (Tallest Building in the world). Now, what is the most important part of this building? No, not it’s not the height (well, that too!) but mainly its foundation. If the Burj Khalifa did not have a strong foundation, it would have been fairly wobbly and much more likely to fall than stand!!
