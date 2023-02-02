@@ -28,7 +28,7 @@ End
 
 Begin
 
-step:1 printstep: "Enter upper limit for calculate sum of odd Number upto upper limit"
+step:1 print "Enter upper limit for calculate sum of odd Number upto upper limit"
 step:2 Read n
 step:3 initialize i to 1 and sum to 0
 step:4 while i!=n do
