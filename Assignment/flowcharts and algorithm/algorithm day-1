@@ -24,7 +24,7 @@ step:4 print Area
 End
 
 
-//odd number sum
+//sum of odd number
 
 Begin
 
@@ -34,6 +34,7 @@ step:3 initialize i to 1 and sum to 0
 step:4 while i!=n do
             if i % 2 != 0
                 sum = sum + i
+            i=i+1
 step:5 print sum   
 
 End
